@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DPO topics, zentangle drawing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-     <a href="[https://mastodon.social/@tuulap](https://mastodon.social/@tuulap)" rel="me">Mastodon!</a>
+       Mastodon (in English) [https://mastodon.social/@tuulap](https://mastodon.social/@tuulap)
 
 <!---
 TuulaP/TuulaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
