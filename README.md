@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @TuulaP
 - 👀 I’m interested in software testing, development, project development, digitization 
-- 🌱 I’m currently learning DPO topics, zentangle drawing
+- 🌱 I’m currently learning 
+-     * DPO topics
+-     * zentangle drawing
+-     * green ICT
+-     * python object detection
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
        Mastodon (in English) [https://mastodon.social/@tuulap](https://mastodon.social/@tuulap)
