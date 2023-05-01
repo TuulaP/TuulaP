@@ -2,7 +2,7 @@
 - 👀 I’m interested in software testing, development, project development, digitization 
 - 🌱 I’m currently learning 
      - green ICT
-     - python object detection
+     - semi-formal test description strategies
      - IIIF (hopefully)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
