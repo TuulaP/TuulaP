@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @TuulaP
 - 👀 I’m interested in software testing, development, project development, digitization 
 - 🌱 I’m currently learning 
-     - DPO topics
-     - zentangle drawing
      - green ICT
      - python object detection
+     - IIIF (hopefully)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-       Mastodon (in English) [https://mastodon.social/@tuulap](https://mastodon.social/@tuulap)
+       Mastodon [https://mastodo.fi/@tuulap](https://mastodo.fi/@tuulap) (04/2023->)
 
 <!---
 TuulaP/TuulaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
